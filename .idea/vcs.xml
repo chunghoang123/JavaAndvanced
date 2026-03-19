@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hackathong_advanced" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Session01" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Session03" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Session06" vcs="Git" />
